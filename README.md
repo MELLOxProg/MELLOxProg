@@ -1,6 +1,6 @@
 # Hi, I'm Nirav! 👋
 
-🧑💻 **B.Tech CSE (Hons.) AIML Graduate** at Manipal University Jaipur
+🧑💻 **B.Tech CSE (Hons.) AIML Graduate**, Manipal University Jaipur
 
 🌐 **MERN Stack Web Developer**
 
